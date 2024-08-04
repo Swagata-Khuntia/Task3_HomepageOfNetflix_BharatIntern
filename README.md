@@ -1,16 +1,22 @@
 # Task3_HomepageOfNetflix_BharatIntern
 Created the Netflix homepage using only HTML and CSS for BharatIntern's web development internship.
 
-Project Highlights
-🖥️ HTML & CSS 
-💻 GitHub Profile: Link
-🚀 Live Demo: Link
-Connect with me on LinkedIn: LinkedIn Profile
+## Project Highlights
+- 🖥️ HTML & CSS
+- 💻 GitHub Profile: [Link](https://github.com/Swagata-Khuntia)
+- 🚀 Live Demo: [Link](https://Swagata-Khuntia.github.io/Task3_HomepageOfNetflix_BharatIntern)
 
-Technologies Used:
-HTML CSS Bootstrap
+## LinkedIn
+**Connect with me on LinkedIn:** [LinkedIn Profile]([https://www.linkedin.com/in/sanket-santoki/](https://www.linkedin.com/in/swagata-khuntia-664639224/))
 
-Credits:
-Developed by Swagata Khuntia Internship at BharatIntern
+# Technologies Used:
+HTML
+CSS
+Bootstrap
 
-Thank you for checking out. Stay informed, stay connected! Happy coding! 🚀✨
+# Credits:
+Developed by Swagata Khuntia
+Internship at BharatIntern
+
+Thank you for checking out. Stay informed, stay connected!
+Happy coding! 🚀✨
